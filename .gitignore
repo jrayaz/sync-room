@@ -1,0 +1,6 @@
+# Private to your machine: never commit your songs, your folder path or your lyrics cache
+music/*
+!music/.gitkeep
+config.json
+lyrics-cache.json
+node_modules/

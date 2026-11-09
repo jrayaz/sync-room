@@ -1,0 +1,22 @@
+{
+  "name": "sync-room",
+  "version": "1.0.0",
+  "description": "Private synchronised listening room for your own devices",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "music-metadata": "^12.3.5",
+    "qrcode-generator": "^2.0.4",
+    "ws": "^8.18.0"
+  },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/jrayaz/sync-room.git" },
+  "homepage": "https://github.com/jrayaz/sync-room#readme",
+  "private": true
+}
+
