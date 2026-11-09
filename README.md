@@ -10,7 +10,7 @@ Run it on your PC or Mac, pick a music folder, and friends join from their phone
 
 ## Download
 
-- **Windows, nothing to install:** get **`sync-room-v1.0.0-windows-portable.zip`** from the [latest release](../../releases/latest), unzip it, and double-click **`start.bat`**.
+- **Windows, nothing to install:** download the **windows-portable zip** from the [latest release](../../releases/latest), unzip it, and double-click **`start.bat`**.
 - **Mac, Linux, or from source:** needs [Node.js 22+](https://nodejs.org).
 
   ```bash
